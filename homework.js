@@ -26,7 +26,7 @@ console.log(ans1);
 
 // 3. Filter out all the students's marks who has got less than 50 in the exam
 
-let arr2=[56,85,36,12,63,10];
+let arr2=[56,85,36,12,63,10,45];
 function marksCalculation(ele){
     return ele<50;
 }
